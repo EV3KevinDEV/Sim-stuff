@@ -56,7 +56,7 @@ public class Drivebase extends SubsystemBase {
      KitbotMotor.kDualCIMPerSide, // 2 CIMs per side.
      KitbotGearing.k10p71,        // 10.71:1
      KitbotWheelSize.kSixInch,     // 6" diameter wheels.
-     null                         // No measurement noise.
+     null      // No measurement noise.
   );
 
   /** Creates a new ExampleSubsystem. */
